@@ -77,6 +77,11 @@ body{
 
 .botao:hover {
     transform: translateY(-10px);
+    box-shadow:
+        0 0 4px #ff8800,
+        0 0 8px #ff8800,
+        0 0 16px #ff8800;
+    
 }
 
 .sobre,
